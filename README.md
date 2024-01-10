@@ -1,4 +1,4 @@
-#our published paper in the journal is attached.
+#our published paper in the journal is attached.(Multi-Stage IDS using Snort.pdf)
 
 #commands
 download rules - (sudo git clone https://github.com/sheronroshith-s/Multi-Stage-IDS-using-Snort-tool.git)
