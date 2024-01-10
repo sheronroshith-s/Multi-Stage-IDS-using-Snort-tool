@@ -5,7 +5,6 @@
 # This file intentionally does not come with signatures.  Put your local
 # additions here.
 
-
 #payload detection
 
 alert tcp any any -> $HOME_NET 1337 (msg:"xyz RAT detected"; content:"shellbackdoor";offset:23; depth:13; sid:10021; rev:1; classtype:trojan-activity;)
