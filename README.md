@@ -14,4 +14,4 @@ copy rules - (sudo cp local.rules /etc/snort/rules/local.rules)
 
 
 
-#If error occured, contact : sheronroshithprime@gmail.com
+#If error occures, contact : sheronroshithprime@gmail.com
