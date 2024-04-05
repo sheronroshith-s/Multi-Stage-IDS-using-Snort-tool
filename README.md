@@ -6,11 +6,11 @@ https://github.com/sheronroshith-s/Multi-Stage-IDS-using-Snort-tool/blob/main/Mu
 
 #commands
 
-install snort - (sudo apt install snort)
+To install snort - (sudo apt install snort)
 
-download rules - (sudo git clone https://github.com/sheronroshith-s/Multi-Stage-IDS-using-Snort-tool.git)
+To download rules - (sudo git clone https://github.com/sheronroshith-s/Multi-Stage-IDS-using-Snort-tool.git)
 
-copy rules - (sudo cp local.rules /etc/snort/rules/local.rules)
+To copy rules - (sudo cp local.rules /etc/snort/rules/local.rules)
 
 
 
